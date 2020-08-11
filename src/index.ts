@@ -1,3 +1,3 @@
-import { TestImport } from '~/TestImport';
+import { RenamedImport } from 'RenamedImport.ts';
 
-new TestImport().print();
+new RenamedImport().print();

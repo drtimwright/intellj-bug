@@ -1,4 +1,4 @@
-export class TestImport {
+export class RenamedImport {
   print() {
     console.log('something');
   }
